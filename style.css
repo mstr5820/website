@@ -1,0 +1,18 @@
+h1{
+    font: size 900px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10%;
+}
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 2%;
+}
+#pera1{
+    margin-left: 2%;
+}
+.Developer{
+    margin-left: 55%;
+    margin-top: -37%;
+    height: 40%;
+    width: 40%;
+}
